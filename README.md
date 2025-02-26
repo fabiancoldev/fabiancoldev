@@ -1,16 +1,18 @@
-## Hi there 👋
+## ¡Hola! 👋  
 
-<!--
-**fabiancoldev/fabiancoldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **docente del programa programación y mantenimiento de computadores** especializado en **desarrollo Front-end con Angular y React**, **Back-end con Java y Express**, y **gestión de bases de datos con MySQL, PostgreSQL y MongoDB**.  
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí  
+- 👨‍🏫 Apasionado por la enseñanza y mentoría en tecnología.  
+- 💻 **Más de 8 años** de experiencia desarrollando aplicaciones web.  
+- 🔹 **Front-end:** Angular | React | TypeScript | CSS3 | SASS  
+- 🔹 **Back-end:** Java (Spring Boot) | Node.js (Express)  
+- 🔹 **Bases de datos:** MySQL | PostgreSQL | MongoDB  
+- 🔹 **DevOps & Herramientas:** Docker | Git | CI/CD  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente explorando  
+- Microservicios y despliegue en la nube ☁️  
+- Arquitectura de software 🏗️  
+
+
+¡No dudes en contactarme o colaborar en proyectos! 
