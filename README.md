@@ -1,6 +1,6 @@
 ## ¡Hola! 👋  
 
-Soy **docente del programa programación y mantenimiento de computadores** especializado en **desarrollo Front-end con Angular y React**, **Back-end con Java y Express**, y **gestión de bases de datos con MySQL, PostgreSQL y MongoDB**.  
+Soy **docente del técnico programación y mantenimiento de computadores** especializado en **desarrollo Front-end con Angular y React**, **Back-end con Java y Express**, y **gestión de bases de datos con MySQL, PostgreSQL y MongoDB**.  
 
 ### 🚀 Sobre mí  
 - 👨‍🏫 Apasionado por la enseñanza y mentoría en tecnología.  
